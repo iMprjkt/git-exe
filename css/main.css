@@ -1,0 +1,17 @@
+body {
+  color: inherit;
+  background-color: grey;
+}
+
+h1 {
+  background-color: inherit;
+  color: #FF6600;
+  font-family: "Fira Sans";
+  text-align: center;
+}
+
+p {
+  font-family:"Fira Sans";
+  font-size: 21px;
+  text-align: center;
+}
